@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="add_food">Add food</string>
+    <string name="decide">Decide!</string>
+    <string name="add_more_food">add more food...</string>
+    <string name="todo">TODO</string>
+</resources>

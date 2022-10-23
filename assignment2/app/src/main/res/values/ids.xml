@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="decide" type="id" />
+    <item name="addfood" type="id" />
+    <item name="newfoodentry" type="id" />
+</resources>
