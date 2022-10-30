@@ -1,17 +1,9 @@
 package com.example.assignment3
 
 import android.annotation.SuppressLint
-import android.graphics.drawable.Drawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import android.view.ViewGroup
 import android.widget.*
-import androidx.core.view.marginBottom
-import androidx.core.view.updateMargins
-//import kotlinx.android.synthetic.main.activity_main.*
-import org.w3c.dom.Text
-//import android.widget.TextView as TextView
 
 class MainActivity : AppCompatActivity() {
     @SuppressLint("ResourceAsColor", "MissingInflatedId")
