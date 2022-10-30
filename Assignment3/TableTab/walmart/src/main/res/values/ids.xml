@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addBtn" type="id" />
+    <item name="editTextVersion" type="id" />
+    <item name="editTextCode" type="id" />
+    <item name="tableLayout" type="id" />
+</resources>
