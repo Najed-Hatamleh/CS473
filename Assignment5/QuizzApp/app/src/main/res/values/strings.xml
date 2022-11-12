@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quizapp</string>
+    <string name="_1_questions">1. What is a correct syntax to output "Hello World" in Kotlin?</string>
+    <string name="_2_questions">2. You have created a class that could be visible to the other parts of the code. Which modifier do you use?</string>
+    <string name="true_ans">println("Hello World")</string>
+    <string name="false_ans">System.out.printline("Hello World")</string>
+    <string name="btn_reset">reset</string>
+    <string name="question2_1">Protected</string>
+    <string name="question2_2">Internal</string>
+    <string name="question2_3">Public</string>
+    <string name="question2_4">Private</string>
+    <string name="question2_5">None</string>
+</resources>
